@@ -1,3 +1,3 @@
 use Company_SD
 
-select * from Employee
+select Salary from Employee
